@@ -13,7 +13,6 @@ Hi there! I'm Sahil, a passionate Product Manager, AI & Data enthusiast. I love 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vector%20DB-005571?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
 ### ☁️ Cloud & DevOps  
@@ -34,16 +33,14 @@ Hi there! I'm Sahil, a passionate Product Manager, AI & Data enthusiast. I love 
 ### 🏛️ Large Language Models (LLMs)  
 <p align="left">
   <img src="https://img.shields.io/badge/GPT-005571?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/BERT-1F425F?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/LLaMA-FF4500?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Gemini%20-%20white?style=for-the-badge&logo=googlegemini&logoColor=white&color=blue" />
+  <img src="https://img.shields.io/badge/Hugging%20Face%20-%20white?style=for-the-badge&logo=huggingface&logoColor=white&color=red" />
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chain&logoColor=white" />
 </p>
 
 ### 🎯 LLMOps, Orchestration & Optimization  
 <p align="left">
   <img src="https://img.shields.io/badge/LLMOps-000000?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white" />
   <img src="https://img.shields.io/badge/Orchestration-3399FF?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Cost%20Optimization-FF8800?style=for-the-badge&logo=dollar&logoColor=white" />
 </p>
