@@ -17,7 +17,7 @@ Hi there! I'm Sahil, a passionate Product Manager, AI & Data enthusiast. I love 
 
 ### ☁️ Cloud & DevOps  
 <p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <!--<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
 </p>
@@ -45,9 +45,9 @@ Hi there! I'm Sahil, a passionate Product Manager, AI & Data enthusiast. I love 
   <img src="https://img.shields.io/badge/Cost%20Optimization-FF8800?style=for-the-badge&logo=dollar&logoColor=white" />
 </p>
 
-### 📚 RAG, Knowledge Graphs & Multi-Agent Systems  
+<!--### 📚 RAG, Knowledge Graphs & Multi-Agent Systems  
 <p align="left">
   <img src="https://img.shields.io/badge/RAG-002F6C?style=for-the-badge&logo=graph&logoColor=white" />
   <img src="https://img.shields.io/badge/Knowledge%20Graphs-4B0082?style=for-the-badge&logo=semantic-web&logoColor=white" />
   <img src="https://img.shields.io/badge/Multi-Agent%20Systems-663399?style=for-the-badge&logo=robot-framework&logoColor=white" />
-</p>
+</p> -->
