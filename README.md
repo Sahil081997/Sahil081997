@@ -1,5 +1,5 @@
 🚀 Welcome to My GitHub Profile !
-Hi there! I'm Sahil, a passionate Product Manager, AI & Data enthusiast. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
+Hi there! I'm Sahil, a passionate Technical Business Systems Analyst / Product Manager, AI & Data enthusiast. I love building scalable AI applications, exploring LLM architectures, and optimizing machine learning models.
 
 ### 🔹 Product Management 
 <p align="left">
